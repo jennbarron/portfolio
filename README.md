@@ -136,7 +136,7 @@ All detailed cases live in **`chaosOS/examples/`** and demonstrate high-stakes, 
 
 ### **Medical & Diagnostic Reasoning**
 - [Medical Escalation (Grace)](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/medical-escalation.md)
-- [Childhood Misdiagnosis Reversal](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/childhood-misdiagnosis-case.md)
+- [Childhood Misdiagnosis Reversal.](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/childhood-misdiagnosis-case.md)
 
 ### **Career & Analytics**
 - [Job Targeting Alignment](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/job-targeting-alignment.md)
