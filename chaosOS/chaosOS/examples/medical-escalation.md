@@ -1,12 +1,21 @@
 # Case Study: Medical Escalation for Grace
 
+# medical-escalation.md
+*A ChaosOS Case Study*  
+**Category:** HEA + DEC + LOG + TRV + PER  
+**Case Type:** Pediatric Medical Escalation / Diagnostic Gap Analysis  
+**Subjects:** Grace (child), Jenn (parent)  
+**Date Range:** 2024 → 2025
+
 **Spokes involved:**  
-- FHEA (Focused Medical)  
-- HEA (General Health)  
-- CAL (Calendar & Timeline)  
+- HEA (General Health Reasoning)  
+- FHEA (Focused Medical Analysis)  
 - DEC (Decision Engine)  
-- REL (Relocation)  
-- LifeVault (Summaries & Records)  
+- LOG (Medical Timeline Reconstruction)  
+- CAL (Sequence Tracking & Temporal Mapping)  
+- TRV (Medical Travel Risk Assessment)  
+- LifeVault (Medical History, Lab Logs, Imaging Notes)  
+- PER (Emotional Processing During Medical Crisis)
 
 ---
 
