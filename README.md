@@ -1,96 +1,183 @@
-# portfolio
-Data + AI Ops portfolio featuring SQL, analytics workflows, and ChaosOS™, my multi-agent GPT system for workflow automation.
-# Jennifer Barron – Data + AI Ops Portfolio
+# Jennifer Barron — Data + AI Ops Portfolio  
+Building structured systems for chaotic environments using SQL, analytics, and multi-agent GPT automation.
 
-**CX & Operations → Data + AI-powered Operations**  
-Data + AI Ops | CX/Ops background | Builder of ChaosOS™, a multi-agent GPT system for workflows and decision support.
+---
+
+## 🧩 ChaosOS™ Architecture  
+*A real, working multi-agent GPT operating system.*
+
+![ChaosOS Architecture](chaosOS/assets/chaosOS-architecture.png)
+
+ChaosOS™ is a **role-based, multi-agent framework** I engineered inside GPT to manage high-complexity workflows across multiple real-world domains.
+
+It powers decisions for:
+
+- medical + health escalation  
+- legal disputes & compliance  
+- government systems  
+- finance + risk workflows  
+- travel safety & logistics  
+- homeschooling & education  
+- job search optimization  
+- safety interventions  
+- multi-step planning and analytics  
+
+ChaosOS is:  
+**(1)** a real operational system I use every day, and  
+**(2)** a portfolio artifact showcasing how I design and maintain complex Data + AI workflows.
 
 ---
 
 ## 👋 About Me
 
-I’ve spent 15+ years in **Customer Experience and Operations**, leading remote teams, fixing broken processes, and keeping messy systems from falling apart.
+I bring **15+ years in Customer Experience & Operations** — remote leadership, high-volume workflows, escalations, and system rescue.
 
-Now I’m pivoting into **Data + AI-powered Ops** — using SQL, analytics, and AI systems to design workflows that are:
-- measurable  
-- automatable  
-- resilient enough for real life  
+Now I’m transitioning into **Data + AI-powered Operations**, where I combine:
 
-This repo is where I document that transition.
+- structured analytical reasoning  
+- SQL + data analysis  
+- workflow modeling  
+- AI system design  
+- cross-domain problem solving  
+
+ChaosOS is my proof-of-concept for that transition.
 
 ---
 
 ## 🎯 Current Focus
 
-- Data + AI-powered **operations design**
-- **SQL** fundamentals and query patterns
-- **Analytics workflows** for decision support
-- **Multi-agent GPT systems** (ChaosOS™)
-- Git & GitHub as my base for versioned work
+- Data + AI-powered **operations design**  
+- SQL fundamentals & analytical querying  
+- Business → data translation  
+- Multi-agent GPT system design (ChaosOS™, KidOS™)  
+- Git & GitHub for versioned, auditable work  
 
 ---
 
-## 📂 Portfolio Structure
+## 📂 Repository Structure
 
-This repository will grow over time. Planned structure:
+### **chaosOS/**
+Documentation + diagrams for the entire multi-agent system  
+- `architecture.md` — system diagram & Mermaid visualization  
+- `overview.md` — ChaosOS functional overview  
+- `agent-design.md` — full agent/spoke catalog (33+ agents)  
+- `examples/` — real case studies, workflows & diagrams  
 
-- `chaosos/` – documentation and diagrams for **ChaosOS™**, my multi-agent GPT operating system for complex workflows and decision support.
-- `sql-practice/` – sample schemas, queries, joins, and analysis patterns as I build SQL depth.
-- `analytics-workflows/` – examples of turning business questions into data questions, then into queries and insights.
-- `ai-ops-labs/` – experiments using AI to automate tickets, documentation, planning, and decision flows.
-- `notes/` – condensed learning notes on SQL, BI, Git, and AI Ops concepts.
+### **sql-practice/** *(active build)*
+- schemas, joins, transformations  
+- SQL reasoning patterns  
+- problem → query → insight workflows  
 
-*(Folders will appear as I build them out.)*
+### **analytics-workflows/** *(active build)*
+- applied business → data workflows  
+- KPI design, decision support logic  
 
----
+### **ai-ops-labs/** *(active build)*
+- automation experiments  
+- multi-agent reasoning examples  
 
-## 🧠 ChaosOS™ – High-Level Overview
-
-**ChaosOS™** is a role-based, multi-agent system I built inside GPT to manage high-complexity, multi-domain life and work:
-
-- Separate “spokes” for **legal, finance, health, homeschool, work, planning, and reflection**
-- A **bridge layer (BRG)** that routes the right context between agents without letting them blend into a chaotic mess
-- A **decision spoke (DEC)** that pulls from multiple agents to support structured decisions
-- A **master hub (HSM/SCX)** that tracks permanent facts and long-term context
-
-Here on GitHub, I’ll be:
-- documenting the architecture
-- mapping spokes to real workflows
-- showing how this thinking transfers into **Data + AI Ops** in a professional environment
+### **notes/**
+- distilled learning notes for SQL, BI, AI Ops, and systems thinking  
 
 ---
 
-## 🛠️ Tools & Stack
+## 🧠 ChaosOS™ — System Overview
 
-- **Languages / Query:** SQL (learning), basic Python later
-- **Data & BI:** Excel/Sheets, Tableau (prior exposure), BI fundamentals in progress
-- **AI:** GPT-5 multi-agent patterns, workflow reasoning, prompt+system design
-- **Collaboration & Ops:** Jira, Salesforce, Google Workspace, Microsoft 365, remote ops tooling
-- **Version Control:** Git & GitHub (active learning)
+ChaosOS uses a **hub + spoke architecture**, similar to how modern data systems manage complexity.
+
+### **Core Components**
+
+**BRG — Bridge Layer**  
+Routes context safely between specialized agents.
+
+**SCX — Shared Context Layer**  
+Stores permanent truths, constraints, and long-term facts.
+
+**LifeVaultDB — Evidence + Memory Layer**  
+Documents, timelines, records, and cross-domain history.
+
+---
+
+### **Spokes (Agents)**  
+33+ independent reasoning modules, including:
+
+- HEA / FHEA — Medical Reasoning  
+- LEG — Legal Strategy  
+- PER — Emotional Safety  
+- MON / FIN — Money + Risk  
+- TRV — Travel & Logistics  
+- JOB — Career Navigation  
+- COA — Admin + Coordination  
+- KID / SCH — Family + Schooling  
+- DEC — Decision Engine  
+- REL — Relocation  
+- …and many more  
+
+Each agent handles its own domain.  
+BRG prevents cross-contamination.  
+DEC consolidates logic.  
+SCX maintains truth stability.
+
+This is effectively **a real AI operating system built out of reasoning modules.**
+
+---
+
+## 📚 Case Study Library (ChaosOS in Action)
+
+All detailed cases live in **`chaosOS/examples/`** and demonstrate high-stakes, multi-domain reasoning.
+
+### **Operations Failures & System Escalations**
+- [Illegal Repo Intervention](chaosOS/examples/illegal-repo-intervention.md)  
+- [HHSC System Error Detection](chaosOS/examples/hhsc-system-error-detection.md)  
+- [Bank Transfer Investigation](chaosOS/examples/bank-transfer-investigation.md)
+
+### **Safety & Behavioral Reasoning**
+- [PER Relationship Safety](chaosOS/examples/per-relationship-safety.md)
+
+### **Medical & Diagnostic Reasoning**
+- [Medical Escalation (Grace)](chaosOS/examples/medical-escalation.md)  
+- [Childhood Misdiagnosis Reversal](chaosOS/examples/childhood-misdiagnosis-case.md)
+
+### **Career & Analytics**
+- [Job Targeting Alignment](chaosOS/examples/job-targeting-alignment.md)
+
+### **Risk-Based Travel**
+- [Travel Safety Evaluation](chaosOS/examples/travel-safety-evaluation.md)
+
+These case studies provide **real-world, high-complexity, multi-domain reasoning** — documented the way a Data + AI Ops engineer would.
+
+---
+
+## 🛠 Tools & Stack
+
+- **Languages:** SQL (active), Python (soon)  
+- **Data / BI:** Excel, Sheets, Tableau, analytics fundamentals  
+- **AI:** GPT-5 multi-agent system design, decision flows, prompt architecture  
+- **Ops Tools:** Salesforce, Jira, GSuite, Microsoft 365  
+- **Versioning:** Git & GitHub (daily workflow)  
 
 ---
 
 ## 📚 Learning Path
 
-I’m currently upskilling through:
+- **DataCamp + Maven Analytics** — SQL, BI, analytics  
+- **Self-directed systems:** ChaosOS™, KidOS™  
+- **Versioned practice:** everything documented on GitHub  
 
-- **DataCamp & Maven Analytics** – SQL, analytics, BI concepts
-- Self-directed projects like **ChaosOS™** and AI-augmented workflows
-- GitHub-based practice to keep everything versioned and visible
+This repo demonstrates:
 
-This repo is meant to show:
-- how I **think about systems**
-- how I **structure messy problems**
-- how I apply **data + AI** to real-world operations challenges
-
----
-
-## 📫 Contact
-
-- **GitHub:** [@jennbarron](https://github.com/jennbarron)
-- **Email:** `jenniferbarron.remote@gmail.com`
-- **LinkedIn:** https://www.linkedin.com/in/jennbarronremote/
+- how I convert chaos into structured systems  
+- how I reason across domains  
+- how I apply data + AI thinking to operations problems  
 
 ---
 
-> Building Data + AI-powered operations, one workflow and one experiment at a time.
+## 📬 Contact
+
+- **GitHub:** https://github.com/jennbarron  
+- **Email:** jenniferbarron.remote@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/jennbarronremote/  
+
+---
+
+**Building Data + AI-powered operations — one workflow, one system, one solved crisis at a time.**
