@@ -127,22 +127,22 @@ This is effectively **a real AI operating system built out of reasoning modules.
 All detailed cases live in **`chaosOS/examples/`** and demonstrate high-stakes, multi-domain reasoning.
 
 ### **Operations Failures & System Escalations**
-- [Illegal Repo Intervention](chaosOS/examples/illegal-repo-intervention.md)  
-- [HHSC System Error Detection](chaosOS/examples/hhsc-system-error-detection.md)  
-- [Bank Transfer Investigation](chaosOS/examples/bank-transfer-investigation.md)
+- [Illegal Repo Intervention](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/illegal-repo-intervention.md)
+- [HHSC System Error Detection](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/hhsc-system-error-detection.md)
+- [Bank Transfer Investigation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/bank-transfer-investigation.md)
 
 ### **Safety & Behavioral Reasoning**
-- [PER Relationship Safety](chaosOS/examples/per-relationship-safety.md)
+- [PER Relationship Safety](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/per-relationship-safety.md)
 
 ### **Medical & Diagnostic Reasoning**
-- [Medical Escalation (Grace)](chaosOS/examples/medical-escalation.md)  
-- [Childhood Misdiagnosis Reversal](chaosOS/examples/childhood-misdiagnosis-case.md)
+- [Medical Escalation (Grace)](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/medical-escalation.md)
+- [Childhood Misdiagnosis Reversal](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/childhood-misdiagnosis-case.md)
 
 ### **Career & Analytics**
-- [Job Targeting Alignment](chaosOS/examples/job-targeting-alignment.md)
+- [Job Targeting Alignment](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/job-targeting-alignment.md)
 
 ### **Risk-Based Travel**
-- [Travel Safety Evaluation](chaosOS/examples/travel-safety-evaluation.md)
+- [Travel Safety Evaluation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/travel-safety-evaluation.md)
 
 These case studies provide **real-world, high-complexity, multi-domain reasoning** — documented the way a Data + AI Ops engineer would.
 
