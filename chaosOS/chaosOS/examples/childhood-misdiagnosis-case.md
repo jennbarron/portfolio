@@ -1,6 +1,14 @@
 # Childhood Misdiagnosis Reversal (Rose)  
 ChaosOS™ Case Study
 
+# childhood-misdiagnosis-case.md
+*A ChaosOS Case Study*  
+**Category:** HEA + DEC + LOG + MIN  
+**Case Type:** Pediatric Diagnostic Patterning / Long-Term Misdiagnosis  
+**Subjects:** Rose (child), Jenn (parent)  
+**Date Range:** 2013 → 2022, with resolution 2022 → present
+
+
 **Spokes involved:**  
 - FHEA (Focused Medical)  
 - HEA (General Health)  
