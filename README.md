@@ -129,7 +129,7 @@ All detailed cases live in **`chaosOS/examples/`** and demonstrate high-stakes, 
 ### **Operations Failures & System Escalations**
 - [Illegal Repo Intervention](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/illegal-repo-intervention.md)
 - [HHSC System Error Detection](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/hhsc-system-error-detection.md)
-- [Bank Transfer Investigation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/bank-transfer-investigation.md)
+- [Bank Transfer Investigation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/bank-transfer-investigation.md)
 
 ### **Safety & Behavioral Reasoning**
 - [PER Relationship Safety](https://github.com/jennbarron/portfolio/blob/main/chaosOS/examples/per-relationship-safety.md)
