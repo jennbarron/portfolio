@@ -1,12 +1,19 @@
 # Case Study: Job Targeting & Alignment
 
-**Spokes involved:**  
-- JOB (Job Search & Career Strategy)  
-- DEC (Decision Engine)  
-- MON (Short-Term Money)  
-- FIN (Long-Term Planning)  
-- MIN (Mindset)  
+# job-targeting-alignment.md
+*A ChaosOS Case Study*  
+**Category:** JOB + DEC + LOG + MON  
+**Case Type:** Career Targeting Optimization / Burnout Prevention  
+**Subjects:** Jenn (user)  
+**Date Range:** 2023 → 2025
 
+**Spokes involved:**  
+- JOB (Career Navigation & Alignment)  
+- DEC (Decision Engine)  
+- LOG (Pattern & Timeline Reconstruction)  
+- MON (Financial Reality Monitor)  
+- PER (Burnout & Emotional Stabilization)  
+- LifeVault (Skills, Work History, Constraints)
 ---
 
 ## Summary
