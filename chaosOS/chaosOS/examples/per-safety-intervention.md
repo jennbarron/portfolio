@@ -1,10 +1,19 @@
 # Case Study: PER Safety Intervention – Preventing Harmful Messages
 
+# per-safety-intervention.md
+*A ChaosOS Case Study*  
+**Category:** PER + MIN + DEC + LEG + LOG  
+**Case Type:** Emotional Safety Intervention / Behavioral Pattern Detection  
+**Subjects:** Jenn (user), Rose & Grace (contextual impact)  
+**Date Range:** 2024 → 2025
+
 **Spokes involved:**  
-- PER (Emotional Processing)  
+- PER (Emotional Regulation & Safety Filtering)  
+- MIN (Behavioral & Manipulation Pattern Mapping)  
 - DEC (Decision Engine)  
-- LEG (Legal Strategy)  
-- LifeVault (Records)  
+- LEG (Legal Boundaries & Safe Communication Strategy)  
+- LOG (Event Tracking & Evidence Preservation)  
+- LifeVault (Context History, Message Records, Prior Incidents)
 
 ---
 
