@@ -1,49 +1,53 @@
 -- 01-basic-queries.sql
--- Basic SELECT / WHERE / ORDER BY using a ChaosOS-style log table
+-- Purpose: Foundational SELECT / WHERE / ORDER BY patterns
+-- Example table: chaos_events
+--   chaos_events(id, customer_id, event_type, event_timestamp, value)
 
--- Imagine a table that stores events ChaosOS tracks:
--- chaos_events(event_id, domain, severity, created_at, description)
-
--- 1. Get everything so we can see the raw data
-SELECT *
-FROM chaos_events;
-
--- 2. Only high-severity events (things ChaosOS would escalate)
-SELECT event_id,
-       domain,
-       severity,
-       created_at,
-       description
+-- 1) View all events (raw log)
+SELECT
+    id,
+    customer_id,
+    event_type,
+    event_timestamp,
+    value
 FROM chaos_events
-WHERE severity = 'HIGH';
+ORDER BY event_timestamp;
 
--- 3. Filter by domain: legal events only
-SELECT event_id,
-       severity,
-       created_at,
-       description
+-- 2) Filter by event type (e.g., payments only)
+SELECT
+    id,
+    customer_id,
+    event_type,
+    event_timestamp,
+    value
 FROM chaos_events
-WHERE domain = 'LEG'
-ORDER BY created_at DESC;
+WHERE event_type = 'payment'
+ORDER BY event_timestamp;
 
--- 4. Limit the noise: the 10 most recent events of any type
-SELECT event_id,
-       domain,
-       severity,
-       created_at
+-- 3) Filter by date range (recent events)
+SELECT
+    id,
+    customer_id,
+    event_type,
+    event_timestamp,
+    value
 FROM chaos_events
-ORDER BY created_at DESC
-LIMIT 10;
+WHERE event_timestamp >= '2025-01-03'
+ORDER BY event_timestamp;
 
--- 5. Combine filters: high-severity health issues in the last 30 days
-SELECT event_id,
-       domain,
-       severity,
-       created_at,
-       description
+-- 4) Show unique event types
+SELECT DISTINCT
+    event_type
 FROM chaos_events
-WHERE domain = 'HEA'
-  AND severity = 'HIGH'
-  AND created_at >= CURRENT_DATE - INTERVAL '30 day'
-ORDER BY created_at DESC;
+ORDER BY event_type;
 
+-- 5) Top 5 highest-value events
+SELECT
+    id,
+    customer_id,
+    event_type,
+    event_timestamp,
+    value
+FROM chaos_events
+ORDER BY value DESC
+LIMIT 5;
