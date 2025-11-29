@@ -1,98 +1,35 @@
-**SQL Practice – Queries, Patterns & Mini Case Studies**
+# SQL Practice Lab (Beginner → Intermediate)
 
-A growing collection of SQL exercises built as part of my Data/AI Operations study path.
+A structured SQL progression demonstrating real-world analytics and operations logic.
 
-**This directory contains real-world-style SQL practice that reflects the skills needed for roles in:**
+---
 
-* Data Analytics
-* Business Intelligence
-* Operations Analysis
-* AI-assisted data workflows
-* Reporting & insights
+## 📘 What This Folder Contains
+Each SQL file represents a learning milestone:
 
-**Instead of isolated “toy” problems, the practice here is built around patterns:**
+- **01-basic-queries.sql** → SELECT, WHERE, ORDER BY  
+- **02-joins.sql** → INNER / LEFT / RIGHT JOIN  
+- **03-aggregations.sql** → SUM, COUNT, GROUP BY  
+- **04-subqueries.sql** → subqueries + correlated subqueries  
+- **05-ctes.sql** → Common Table Expressions  
+- **06-window-functions.sql** → ROW_NUMBER, RANK, PARTITION  
 
-* filtering
-* joins
-* aggregations
-* window functions
-* subqueries
-* CTEs
-* data cleaning logic
-* analytical thinking
+---
 
-Each exercise ties into how ChaosOS™ structures problem-solving:
-clean data → clear logic → applied decision-making.
+## 🤖 Real-World Context  
+All examples use ChaosOS-style schemas:
 
-🚀 What This Folder Includes
-✔️ Foundational SQL Queries
+`chaos_events`, `chaos_domains`, `chaos_agents`, etc.  
 
-**Simple queries to build comfort with:**
+So the queries feel like practical ops/analytics work — not fake textbook scenarios.
 
-* SELECT, WHERE, ORDER BY
-* GROUP BY
-* JOIN types
-* Aggregations (SUM, COUNT, AVG, etc.)
+---
 
-✔️ _**Intermediate Patterns**_
+## 🎯 Goal  
+Show clear SQL progression from fundamentals → intermediate analytics → BI-ready querying.
 
-**Problems focused on:**
-
-* multi-table joins
-* subqueries
-* CTE-based logic
-* CASE statements
-* ranking functions
-
-✔️ _**Analytics-Focused Challenges**_
-
-**These represent actual business problems like:**
-
-* identifying churn patterns
-* analyzing sales performance
-* operational bottlenecks
-* customer segment insights
-* anomaly detection
-
-More datasets + problems will be added as my study path progresses.
-
-📚 **Why This Exists (Actual Purpose)**
-
-**This SQL section isn't for show, it's part of my transition into:**
-
-Data Analytics → BI → AI-powered Operations.
-
-**The goal is to demonstrate:**
-
-* tactical SQL competency
-* analytical thinking
-* structured problem-solving
-* ability to turn data into decisions
-* ability to build repeatable workflows
-
-Every exercise reinforces what I’m learning through Maven, DataCamp, and hands-on projects.
-
-🧩 _**How to Run The Queries**_
-
-**All exercises are written to run in:**
-
-* DataCamp Workspace
-* SQL Fiddle
-* SQLite online editors
-* Local SQL tools _(optional)_
-
-You do not need to download anything. Each .sql file includes a note on what tool it’s compatible with.
-
-📈 **Future Additions**
-
-**Coming soon:**
-
-* more datasets (sales, CX, logistics, healthcare ops)
-* dashboard starter files (Tableau/Power BI)
-* case-study style SQL challenges
-* advanced window-function practice
-* ChaosOS™-style analytical templates
-
-🧠 **About This Folder**
-
-This SQL directory is part of my larger study ecosystem, but is also designed to be a standalone portfolio component I can share with recruiters and hiring managers.
+This proves:
+- ability to write SQL  
+- structure queries  
+- think in tables  
+- model real business questions  
