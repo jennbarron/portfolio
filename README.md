@@ -1,46 +1,60 @@
 # Jennifer Barron — Data + AI Ops Portfolio  
-Building structured systems for chaotic environments using SQL, analytics, and multi-agent GPT automation.
+Building structured systems for high-complexity, real-world environments using SQL, analytics, and AI-assisted workflow design.
+
+This portfolio documents my transition from 15+ years in CX & Operations into Data + AI-powered Operations, with a focus on practical, applied systems thinking.
 
 ---
 
-## 🧩 ChaosOS™ Architecture  
+## 🧩 ChaosOS™ AI Workflow Architecture
 *A real, working multi-agent GPT operating system.*
 
 ![ChaosOS Architecture](chaosOS/assets/chaosOS-architecture.png)
 
-ChaosOS™ is a **role-based, multi-agent framework** I engineered inside GPT to manage high-complexity workflows across multiple real-world domains.
-
+ChaosOS is a role-based, multi-agent framework I designed inside GPT to model, manage, and reason through complex, multi-step workflows across diverse domains.
 It powers decisions for:
 
-- medical + health escalation  
-- legal disputes & compliance  
-- government systems  
-- finance + risk workflows  
-- travel safety & logistics  
-- homeschooling & education  
-- job search optimization  
-- safety interventions  
-- multi-step planning and analytics  
+* medical coordination & escalation
 
-ChaosOS is:  
-**(1)** a real operational system I use every day, and  
-**(2)** a portfolio artifact showcasing how I design and maintain complex Data + AI workflows.
+* legal & compliance reasoning
+
+* government case management
+
+* financial and risk workflows
+
+* travel safety & logistics
+
+* education planning & learning systems
+
+* job search targeting
+
+* multi-step planning & cross-domain analysis
+
+
+ChaosOS is both:
+
+1. A real AI-assisted system I use to organize and reason through complex, interdependent tasks, and
+
+2. A portfolio artifact demonstrating how I design Data + AI workflows, agent roles, guardrails, and decision flows.
 
 ---
 
 ## 👋 About Me
 
-I bring **15+ years in Customer Experience & Operations** — remote leadership, high-volume workflows, escalations, and system rescue.
+I bring **15+ years in Customer Experience & Operations** — leading remote teams, running high-volume workflows, managing escalations, and rebuilding broken processes.
 
-Now I’m transitioning into **Data + AI-powered Operations**, where I combine:
+**My core strengths include:**
 
-- structured analytical reasoning  
-- SQL + data analysis  
-- workflow modeling  
-- AI system design  
-- cross-domain problem solving  
+* structured analytical reasoning
 
-ChaosOS is my proof-of-concept for that transition.
+* workflow modeling & ops design
+
+* data interpretation & problem framing
+
+* AI-assisted decision architecture
+
+cross-domain system thinking
+
+I’m now expanding my skillset into SQL, BI, and data-driven operations, and documenting that progression through projects like ChaosOS, KidOS, and SQL practice workflows.
 
 ---
 
@@ -48,113 +62,124 @@ ChaosOS is my proof-of-concept for that transition.
 
 - Data + AI-powered **operations design**  
 - SQL fundamentals & analytical querying  
-- Business → data translation  
-- Multi-agent GPT system design (ChaosOS™, KidOS™)  
-- Git & GitHub for versioned, auditable work  
+- Translating business problems into data workflows
+- Multi-agent GPT system design (ChaosOS, KidOS) 
+- Git & GitHub for versioned, auditable practice 
 
 ---
 
 ## 📂 Repository Structure
 
 ### **chaosOS/**
-Documentation + diagrams for the entire multi-agent system  
+Documentation, diagrams, and system design notes.   
 - `architecture.md` — system diagram & Mermaid visualization  
-- `overview.md` — ChaosOS functional overview  
-- `agent-design.md` — full agent/spoke catalog (33+ agents)  
-- `examples/` — real case studies, workflows & diagrams  
+- `overview.md` — functional overview of ChaosOS 
+- `agent-design.md` — agent catalog & role boundaries
+- `examples/` —anonymized case studies demonstrating multi-domain reasoning
 
 ### **sql-practice/** *(active build)*
+Applied SQL learning: 
 - schemas, joins, transformations  
-- SQL reasoning patterns  
+- reasoning patterns  
 - problem → query → insight workflows  
 
 ### **analytics-workflows/** *(active build)*
-- applied business → data workflows  
-- KPI design, decision support logic  
+Business → data workflows:
+- KPI design
+- decision support logic
+- workflow modeling
 
 ### **ai-ops-labs/** *(active build)*
-- automation experiments  
-- multi-agent reasoning examples  
+AI-assisted automation experiments:
+- multi-agent reasoning patterns
+- structured prompt architecture
+- ops automation prototypes
 
-### **notes/**
-- distilled learning notes for SQL, BI, AI Ops, and systems thinking  
+**notes/** **(active build)**
+Distilled learning notes for SQL, BI, AI Ops, and systems thinking.  
 
 ---
 
 ## 🧠 ChaosOS™ — System Overview
+ChaosOS follows a hub-and-spoke architecture similar to modern data + ops systems.
 
-ChaosOS uses a **hub + spoke architecture**, similar to how modern data systems manage complexity.
+**Core Layers**
 
-### **Core Components**
-
-**BRG — Bridge Layer**  
+**BRG — Bridge Layer**
 Routes context safely between specialized agents.
 
-**SCX — Shared Context Layer**  
-Stores permanent truths, constraints, and long-term facts.
+**SCX — Shared Context Layer**
+Stores stable truths, constraints, and long-term information.
 
-**LifeVaultDB — Evidence + Memory Layer**  
-Documents, timelines, records, and cross-domain history.
+**LifeVaultDB — Evidence Layer**
+Maintains documents, timelines, and cross-domain reference history.
 
----
+Spokes (Agents)
 
-### **Spokes (Agents)**  
-33+ independent reasoning modules, including:
+33+ domain-specific agents, including:
 
-- HEA / FHEA — Medical Reasoning  
-- LEG — Legal Strategy  
-- PER — Emotional Safety  
-- MON / FIN — Money + Risk  
-- TRV — Travel & Logistics  
-- JOB — Career Navigation  
-- COA — Admin + Coordination  
-- KID / SCH — Family + Schooling  
-- DEC — Decision Engine  
-- REL — Relocation  
-- …and many more  
+* **HEA / FHEA** — Medical coordination
 
-Each agent handles its own domain.  
-BRG prevents cross-contamination.  
-DEC consolidates logic.  
-SCX maintains truth stability.
+* **LEG** — Legal strategy & compliance
 
-This is effectively **a real AI operating system built out of reasoning modules.**
+* **PER** — Safety & behavioral reasoning
+
+* **MON / FIN** — Money, budgeting, and risk
+
+* **TRV** — Travel logistics
+
+* **JOB** — Career navigation
+
+* **COA** — Admin & ops support
+
+* **KID / SCH** — Family & education workflows
+
+* **DEC** — Meta-level decision engine
+
+* **REL** — Relocation logic
+
+Each agent owns a domain.
+BRG controls context flow.
+DEC consolidates logic.
+SCX stabilizes long-term truth.
 
 ---
 
 ## 📚 Case Study Library (ChaosOS in Action)
+Located in chaosOS/examples/.
+All case studies are anonymized but based on real-world scenarios, documented the way a Data + AI Ops engineer would reason through them.
 
-All detailed cases live in **`chaosOS/examples/`** and demonstrate high-stakes, multi-domain reasoning.
+Examples include:
 
 ### **Operations Failures & System Escalations**
-- [Illegal Repo Intervention](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/illegal-repo-intervention.md)
-- [HHSC System Error Detection](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/hhsc-system-error-detection.md)
-- [Bank Transfer Investigation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/bank-transfer-investigation.md)
+- [Vehicle Lender Escalation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/illegal-repo-intervention.md)
+- [System Error Detection](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/hhsc-system-error-detection.md)
+- [Financial Transaction Investigation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/bank-transfer-investigation.md)
 
 ### **Safety & Behavioral Reasoning**
-- [PER Relationship Safety](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/per-relationship-safety.md)
+- [Personal Safety & risk evaluation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/per-relationship-safety.md)
 
 ### **Medical & Diagnostic Reasoning**
-- [Medical Escalation (Grace)](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/medical-escalation.md)
+- [Medical Escalation Workflows](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/medical-escalation.md)
 - [Childhood Misdiagnosis Reversal.](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/childhood-misdiagnosis-case.md)
-- [MS Diagnostic Re-Evaluation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/ms-misdiagnosis-case.md)
+- [Diagnostic Re-Evaluation Frameworks](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/ms-misdiagnosis-case.md)
 
 
 ### **Career & Analytics**
-- [Job Targeting Alignment](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/job-targeting-alignment.md)
+- [Job Targeting Analysis](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/job-targeting-alignment.md)
 
 ### **Risk-Based Travel**
-- [Travel Safety Evaluation](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/travel-safety-evaluation.md)
+- [Risk-based travel workflows](https://github.com/jennbarron/portfolio/blob/main/chaosOS/chaosOS/examples/travel-safety-evaluation.md)
 
-These case studies provide **real-world, high-complexity, multi-domain reasoning** — documented the way a Data + AI Ops engineer would.
+These examples highlight structured workflows, cross-domain logic, data interpretation, and AI-assisted reasoning.
 
 ---
 
 ## 🛠 Tools & Stack
 
-- **Languages:** SQL (active), Python (soon)  
-- **Data / BI:** Excel, Sheets, Tableau, analytics fundamentals  
-- **AI:** GPT-5 multi-agent system design, decision flows, prompt architecture  
+- **Languages:** SQL (active), Python (planned)  
+- **Data / BI:** Excel, Sheets, Tableau, (fundamentals)
+- **AI:** GPT-based multi-agent design, prompt architecture, reasoning flows  
 - **Ops Tools:** Salesforce, Jira, GSuite, Microsoft 365  
 - **Versioning:** Git & GitHub (daily workflow)  
 
@@ -162,15 +187,15 @@ These case studies provide **real-world, high-complexity, multi-domain reasoning
 
 ## 📚 Learning Path
 
-- **DataCamp + Maven Analytics** — SQL, BI, analytics  
-- **Self-directed systems:** ChaosOS™, KidOS™  
+- **DataCamp + Maven Analytics:** SQL, BI, analytics  
+- **Multi-agent AI systems:** ChaosOS, KidOS 
 - **Versioned practice:** everything documented on GitHub  
 
-This repo demonstrates:
+_**This portfolio demonstrates:**_
 
-- how I convert chaos into structured systems  
-- how I reason across domains  
-- how I apply data + AI thinking to operations problems  
+* how I convert complex, real-world problems into structured systems
+* how I reason across domains using data + AI
+* how I design processes, workflows, and decision logic
 
 ---
 
@@ -182,4 +207,4 @@ This repo demonstrates:
 
 ---
 
-**Building Data + AI-powered operations — one workflow, one system, one solved crisis at a time.**
+**Building Data + AI-powered operations — one workflow, one system, one solved problem at a time.**
